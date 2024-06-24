@@ -1,6 +1,7 @@
 # ¡Hola! 👋 Soy [Nico]
 
-![Banner](https://via.placeholder.com/1200x400.png?text=Banner+Personalizado)
+![Banner](![Banner_Github](https://github.com/nicotapie30/nicotapie30/assets/141846774/efb6fae3-4772-4199-a15a-29404127f506)
+)
 
 ## Sobre mí
 Soy [Tu Nombre], un profesional apasionado por [tu área de especialización, e.g., desarrollo de software, marketing digital, diseño gráfico]. Con [número] años de experiencia en la industria, me especializo en [tus especialidades]. Mi objetivo es [tu objetivo profesional, e.g., ayudar a las empresas a crecer a través de soluciones innovadoras y eficientes].
