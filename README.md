@@ -16,10 +16,10 @@ Soy Nicolás Alejandro Tapié, un profesional apasionado por el desarrollo de so
 - **Soft Skills:** Trabajo en equipo, Resolución de problemas, Comunicación efectiva, Responsabilidad.
 
 ## Contacto
-- **Correo electrónico:** nicoatapie@gmail.com.
-- **LinkedIn:** https://www.linkedin.com/in/nicolasatapiedev30/.
-- **Instagram:** https://www.instagram.com/nicotapie1/.
+- **Correo electrónico:** 👉<a href="nicoatapie@gmail.com" target="_blank"> Correo Electrónico</a></p>
+- **LinkedIn:** 👉<a href="https://www.linkedin.com/in/tu-linkedin/" target="_blank"> ​Linkedin</a>
+- **Instagram:** 👉<a href="https://www.instagram.com/nicotapie1/." target="_blank"> Instagram</a>
 ---
 
-¡Gracias por visitar mi perfil! Estoy siempre en busca de nuevas oportunidades y desafíos. No dudes en [contactarme](https://www.linkedin.com/in/nicolasatapiedev30/).
+¡Gracias por visitar mi perfil! Estoy siempre en busca de nuevas oportunidades y desafíos. No dudes en <a href="https://www.linkedin.com/in/nicolasatapiedev30/" target="_blank">contactarme</a>.
 
