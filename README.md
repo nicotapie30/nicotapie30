@@ -1,7 +1,8 @@
 <h1 align="center">¡Hola! 👋 Soy Nico</h1>
 
 <p align="center">
-  <img src="https://i.postimg.cc/C5GcHvzN/Banner-Github.png" alt="Banner" style="border-radius: 15px;">
+  <img src="![NicolásAlejandroTapié](https://github.com/user-attachments/assets/99555375-a5b6-45d7-b167-6cc0a04752d0)
+" alt="Banner" style="border-radius: 15px;">
 </p>
 
 ## Sobre mí
