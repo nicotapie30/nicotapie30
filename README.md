@@ -1,8 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Nico</h1>
 
 <p align="center">
-  <img src="![NicolásAlejandroTapié](https://github.com/user-attachments/assets/99555375-a5b6-45d7-b167-6cc0a04752d0)
-" alt="Banner" style="border-radius: 15px;">
+  <img src=![NicolásAlejandroTapié-min@112 (2)](https://github.com/user-attachments/assets/f9f89da4-ad06-4292-a557-d68916ee46f0) alt="Banner">
 </p>
 
 ## Sobre mí
@@ -43,7 +42,7 @@ Soy Nicolás Tapié, un profesional apasionado por el Desarrollo de Software. Co
 - **Instagram:** 👉​<a href="https://www.instagram.com/nicotapie1/" target="_blank">Instagram</a>
 ---
 
-¡Gracias por visitar mi perfil! Estoy siempre en busca de nuevas oportunidades y desafíos. No dudes en <a href="https://www.linkedin.com/in/nicolasatapiedev30" target="_blank">contactarme</a>.
+### ¡Gracias por visitar mi perfil! Estoy siempre en busca de nuevas oportunidades y desafíos. No dudes en <a href="https://www.linkedin.com/in/nicolasatapiedev30" target="_blank">contactarme</a>.
 
 
 
