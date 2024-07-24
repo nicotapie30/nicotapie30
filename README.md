@@ -4,11 +4,11 @@
   <img src="/NicolásAlejandroTapié-min.png" alt="Banner" width="100%">
 </p>
 
-## Sobre mí 
+## Sobre mí 📌
 
 Soy un profesional apasionado por el Desarrollo de Software 👨🏻‍💻. Con 3 años de experiencia en la industria, me especializo en Desarrollo Web. Mi objetivo es ayudar a las personas y empresas a crecer y expandirse, a través de soluciones  innovadoras, profesionales y eficientes.
 
-## Habilidades
+## Habilidades 📌
 
 ### Lenguajes de Programación
 
