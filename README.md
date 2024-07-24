@@ -5,10 +5,11 @@
 </p>
 
 ## Sobre mí 📌
-<p style="text-wrap= pretty">
+<p wrap= "pretty">
 Soy un profesional apasionado por el Desarrollo de Software 👨🏻‍💻. Con 3 años de experiencia en la industria, me especializo en Desarrollo Web. 
 Mi objetivo es ayudar a las personas y empresas a crecer y expandirse, a través de soluciones  innovadoras, profesionales y eficientes.
 </p>
+
 ## Habilidades 📌
 
 ### Lenguajes de Programación
