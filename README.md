@@ -25,7 +25,7 @@ Soy un profesional apasionado por el Desarrollo de Software 👨🏻‍💻, con
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D41?style=flat-square&logo=astro&logoColor=white)
 
 ### Bases de Datos
 
