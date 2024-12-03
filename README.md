@@ -31,6 +31,11 @@ Soy un profesional apasionado por el Desarrollo de Software 👨🏻‍💻, con
 ![React](https://img.shields.io/badge/React-2C2C2C?style=flat-square&logo=react&logoColor=61DAFB&labelColor=2C2C2C)
 
 
+### Compilación
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=FFD62E&labelColor=646CFF)
+
+
+
 ### Herramientas y Tecnologías
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
