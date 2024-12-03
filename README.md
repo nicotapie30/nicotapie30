@@ -13,46 +13,52 @@ Soy un profesional apasionado por el Desarrollo de Software 👨🏻‍💻, con
 ## Habilidades 📌
 
 ### Desarrollo Web
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-
+<div display="inline">
+  <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+  <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+</div>
 
 
 ### Entorno
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+  <img src = "https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
 
 ### Frameworks-Librerias
 
-![Astro](https://img.shields.io/badge/Astro-FF5D41?style=flat-square&logo=astro&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-2C2C2C?style=flat-square&logo=react&logoColor=61DAFB&labelColor=2C2C2C)
-
+<div display="inline">
+  <img src = "https://img.shields.io/badge/Astro-FF5D41?style=flat&logo=astro&logoColor=white">
+  <img src = "https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
+  <img src = "https://img.shields.io/badge/React-2C2C2C?style=flat&logo=react&logoColor=61DAFB&labelColor=2C2C2C">
+</div>
 
 ### Compilación
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=FFD62E&labelColor=646CFF)
+ <img src = "https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=FFD62E&labelColor=646CFF">
 
 
 
 ### Herramientas y Tecnologías
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
+<div display="inline">
+  <img src = "https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+  <img src = "https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white">
+  <img src = "https://img.shields.io/badge/Trello-0079BF?style=flat&logo=trello&logoColor=white&labelColor=0079B">
+</div>
 
 
 ### Bases de Datos
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
+<div display="inline">
+  <img src = "https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src = "https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
+</div>
 
 ### Otros Lenguajes de Programación
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<div display="inline">
+  <img src = "https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src = "https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
+</div>
 
 ### Habilidades Blandas
 
