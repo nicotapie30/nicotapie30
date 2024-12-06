@@ -30,6 +30,7 @@ Soy un profesional apasionado por el Desarrollo de Software 👨🏻‍💻, con
   <img src = "https://img.shields.io/badge/Astro-FF5D41?style=flat&logo=astro&logoColor=white">
   <img src = "https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
   <img src = "https://img.shields.io/badge/React-2C2C2C?style=flat&logo=react&logoColor=61DAFB&labelColor=2C2C2C">
+  <img src="https://img.shields.io/badge/Tailwind-FFFFFF?style=flat&logo=tailwindcss&logoColor=38B2AC&labelColor=FFFFFF">
 </div>
 
 
