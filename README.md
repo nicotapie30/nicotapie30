@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#FFA500; font-family: 'Comic Sans MS', cursive, sans-serif;">¡Hola! 👋 Soy Nico</h1>
 
 <p align="center">
-  <img src="/NicolásAlejandroTapié-min.png" alt="Banner" width="100%">
+  <img src="/NicolásAlejandroTapié.png" alt="Banner" width="100%">
 </p>
 
 ## Sobre mí 📌
