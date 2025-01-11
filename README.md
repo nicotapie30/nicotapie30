@@ -6,7 +6,7 @@
 
 ## Sobre mí 📌
 
-Soy un profesional apasionado por el Desarrollo de Software 👨🏻‍💻, con 3 años de experiencia en la industria.<br> Me especializo en <strong>Desarrollo Web</strong>. 
+Técnico Superior en Programación apasionado por el Desarrollo de Software 👨🏻‍💻, con 3 años de experiencia en la industria.<br> Me especializo en <strong>Desarrollo Web</strong>. 
 <br>Mi objetivo es ayudar tanto a las personas como a las empresas, a crecer y expandirse, a través de soluciones  innovadoras, profesionales y eficientes.
 
 
