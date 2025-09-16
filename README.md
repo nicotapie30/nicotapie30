@@ -17,6 +17,7 @@ Técnico Superior en Programación apasionado por el Desarrollo de Software 👨
   <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
   <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
 </div>
 
 
@@ -51,6 +52,7 @@ Técnico Superior en Programación apasionado por el Desarrollo de Software 👨
 ### Bases de Datos
 
 <div display="inline">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
   <img src = "https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
   <img src = "https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
 </div>
